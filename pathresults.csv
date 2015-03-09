@@ -1,0 +1,59 @@
+source,target,value
+(entrance),(not set),3
+(entrance),500 - error page,5
+customer assistance program finder,500 - error page,4
+(entrance),home,113
+our products,home,3
+home,home,10
+search results,home,2
+programs to access product,home,3
+leaving site,home,5
+customer assistance program finder,home,15
+home,us healthcare reform,3
+click to read this pdf file,leaving site,2
+home,leaving site,2
+customer assistance program finder results,leaving site,15
+studies and research,leaving site,2
+leaving site,leaving site,12
+our products,leaving site,7
+programs to access product,leaving site,18
+click to read this pdf file,click to read this pdf file,2
+our products,click to read this pdf file,10
+home,getting the help you need,4
+leaving site,our products,3
+programs to access product,our products,4
+customer assistance program finder results,our products,2
+home,our products,7
+(entrance),our products,12
+search results,our products,2
+customer assistance program finder,our products,11
+our products,our products,26
+(entrance),customer assistance program finder,9
+customer assistance program finder,customer assistance program finder,13
+customer assistance program finder step 2,customer assistance program finder,8
+programs to access product,customer assistance program finder,3
+leaving site,customer assistance program finder,2
+click to read this pdf file,customer assistance program finder,2
+our products,customer assistance program finder,7
+home,customer assistance program finder,62
+search results,customer assistance program finder,3
+customer assistance program finder results,customer assistance program finder,2
+customer assistance program finder results,customer assistance program finder results,4
+customer assistance program finder step 2,customer assistance program finder results,31
+leaving site,customer assistance program finder results,3
+customer assistance program finder step 2,customer assistance program finder step 2,5
+customer assistance program finder results,customer assistance program finder step 2,9
+customer assistance program finder,customer assistance program finder step 2,47
+customer assistance program finder,programs to access product,8
+customer assistance program finder step 2,programs to access product,2
+programs to access product,programs to access product,8
+(entrance),programs to access product,21
+leaving site,programs to access product,6
+home,programs to access product,7
+our products,programs to access product,3
+customer assistance program finder results,programs to access product,5
+search results,search results,7
+customer assistance program finder,search results,3
+home,search results,4
+our products,search results,2
+programs to access product,search results,2
